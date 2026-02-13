@@ -12,4 +12,4 @@ Thanks to 3l3e on GD and @username.elee on Discord.
 
 
 
-Little explanation : The "license" file is the key to megahack, when launching GD Megahack want to findthis file for launching, with it the mod launch and work.
+Little explanation : The "license" file is the key to megahack, when launching GD Megahack want to find this file for launching, with it the mod launch and work.
